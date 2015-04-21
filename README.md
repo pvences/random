@@ -1,0 +1,1 @@
+Esto es un practica de la asignatura de CORE de las alumnas Maria Alvarez y Paloma Vences, sobre la gestion de proyectos software con Git y Github.
